@@ -22,3 +22,6 @@ An end-to-end machine learning pipeline that cleans industrial energy data and u
 - `main.py`: The core execution script.
 - `models/`: Contains the trained `.pkl` model and scaler.
 - `outputs/`: Performance visualizations.
+
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/9cf35263-2ed6-4dd1-bb29-fe9f575d70cf" />
+
